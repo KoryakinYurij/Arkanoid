@@ -1,0 +1,12 @@
+{
+  "offline": true,
+  "networkRequests": [],
+  "pageErrors": [],
+  "settingsPersist": true,
+  "smallViewport": {
+    "x": 0,
+    "y": 0,
+    "width": 320,
+    "height": 568
+  }
+}

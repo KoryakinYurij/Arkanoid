@@ -1,0 +1,50 @@
+{
+  "mode": "offline",
+  "resultText": "ПОПЫТКА ЗАВЕРШЕНА\n\nНе последний угол.\n\n↗ НОВЫЙ РЕКОРД\n\n1 800\n\nОЧКОВ ЗА ЭТУ ПОПЫТКУ\n\nСтарт: Классика\nСмен карточек: 0\n\nГлубина\n1\nУровень\n1\nКирпичей\n1\nМакс. комбо\n×0\nИдеальных ударов\n10\nБоссов\n1\nЭТОТ ЗАБЕГ В МАСТЕРСКОЙ\n☼\nНовая запись: Нова\n\n✓ Первый босс\n\n✓ Первый синтез\n\n✓ Точный расчёт\n\nОткрыто: Старт «Криолог»\n\nОткрыто: Старт «Пиротехник»\n\nОткрыто: Один переброс карт за забег\n\nУже сохранено. Останется и после новой попытки.\n\nПОДПИШИ СВОЙ РЕЗУЛЬТАТ\nЕЩЁ ОДНА ПОПЫТКА\nМАСТЕРСКАЯ\nАльбом 1/4 · открытия ↗\nРЕКОРДЫ\nГЛАВНОЕ МЕНЮ\n\nSpace / Enter / R — начать заново",
+  "start": {
+    "balls": [
+      {
+        "kind": "normal",
+        "count": 3,
+        "level": 1
+      },
+      {
+        "kind": "fire",
+        "count": 1,
+        "level": 1
+      }
+    ],
+    "hud": {
+      "score": 0,
+      "depth": 0,
+      "level": 1,
+      "hp": 3,
+      "maxHp": 3,
+      "combo": 0,
+      "xp": 0,
+      "xpNeed": 3,
+      "warp": 50,
+      "warpMax": 100,
+      "totalBalls": 4,
+      "phase": "ready",
+      "net": 0,
+      "perfects": 0,
+      "rerolls": 1
+    }
+  },
+  "profile": {
+    "version": 1,
+    "discoveries": [
+      "nova",
+      "storm",
+      "plague",
+      "rail"
+    ],
+    "bestBosses": 1,
+    "bestPerfects": 10,
+    "bestScore": 1800,
+    "selectedStarter": "ember"
+  },
+  "errors": [],
+  "networkRequests": 0
+}

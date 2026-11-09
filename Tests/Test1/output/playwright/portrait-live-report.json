@@ -1,0 +1,30 @@
+{
+  "mode": "live",
+  "desktop": {
+    "x": 555.875,
+    "y": 16,
+    "width": 488.25,
+    "height": 868
+  },
+  "medium": {
+    "x": 230.875,
+    "y": 16,
+    "width": 488.25,
+    "height": 868
+  },
+  "phone": {
+    "x": 0,
+    "y": 75.328125,
+    "width": 390,
+    "height": 693.328125
+  },
+  "small": {
+    "x": 0.25,
+    "y": 0,
+    "width": 319.5,
+    "height": 568
+  },
+  "errors": [],
+  "networkRequests": "development",
+  "fusionProgress": "locked -> ready -> collected"
+}
